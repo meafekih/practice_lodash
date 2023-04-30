@@ -1,0 +1,27 @@
+{
+  "name": "practice_lodash",
+  "version": "1.0.0",
+  "description": "This is an application for test and practice libreary \"lodash\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meafekih/Lodash-practice.git"
+  },
+  "keywords": [
+    "lodash",
+    "practice",
+    "test"
+  ],
+  "author": "Fekih Mohamed el amin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meafekih/Lodash-practice/issues"
+  },
+  "homepage": "https://github.com/meafekih/Lodash-practice#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
